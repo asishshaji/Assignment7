@@ -1,4 +1,4 @@
-package TaxAndProduct;
+package Q1;
 
 public class Employee implements Taxable {
     int empId;

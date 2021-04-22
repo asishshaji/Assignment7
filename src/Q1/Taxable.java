@@ -1,4 +1,4 @@
-package TaxAndProduct;
+package Q1;
 
 public interface Taxable {
     double salesTax = 0.07;

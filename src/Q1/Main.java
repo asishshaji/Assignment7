@@ -1,4 +1,4 @@
-package TaxAndProduct;
+package Q1;
 
 import java.util.Scanner;
 
