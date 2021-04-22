@@ -8,13 +8,5 @@ public class CurrentAccount extends Account {
         this.typeName = typeName;
     }
 
-    @Override
-    void deposit(double amount) {
-        this.balance += amount;
-    }
-
-    @Override
-    void withdraw(double amount) {
-        this.balance -= amount;
-    }
 }
+
